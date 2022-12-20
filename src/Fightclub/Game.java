@@ -337,6 +337,8 @@ public class Game {
         this.blacksmith = blacksmith;
     }
 
+    // Nur für die anzeige in git
+
     public static Integer getInteger() {
         do {
             try {
